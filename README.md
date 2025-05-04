@@ -62,5 +62,5 @@ pip install tensorflow opencv-python pycocotools imageio matplotlib seaborn
 ## 📌 Future Work
 
 - Integrate Dice loss for improved segmentation accuracy.
-- Explore post-processing methods like morphological operations to refine masks.
 - Compare with other architectures like DeepLabV3+ or Attention U-Net.
+- Integrate with Webapp
